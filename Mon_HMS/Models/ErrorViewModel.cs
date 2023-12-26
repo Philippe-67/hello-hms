@@ -7,3 +7,8 @@ namespace Mon_HMS.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+public class EssaiEntite
+{
+
+}

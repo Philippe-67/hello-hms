@@ -4,8 +4,8 @@
     "\\.github",
     "\\.github\\workflows",
     "\\Mon_HMS",
-    "\\Mon_HMS\\Controllers"
+    "\\Mon_HMS\\Controllers",
+    "\\Mon_HMS\\Models"
   ],
-  "SelectedNode": "\\Mon_HMS\\Mon_HMS.csproj",
   "PreviewInSolutionExplorer": false
 }
